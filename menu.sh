@@ -8,15 +8,15 @@ clear
 
 
 portuguese(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/instaladorportugues.sh)
+    bash <(curl https://raw.githubusercontent.com/amgeekz/pterodactylthemes/main/instaladorportugues.sh)
 }
 
 german(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/instaladorgerman.sh)
+    bash <(curl https://raw.githubusercontent.com/amgeekz/pterodactylthemes/main/instaladorgerman.sh)
 }
 
 english(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/instaladorenglish.sh)
+    bash <(curl https://raw.githubusercontent.com/amgeekz/pterodactylthemes/main/instaladorenglish.sh)
 }
 
     CYAN='\033[0;36m'
