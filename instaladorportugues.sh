@@ -15,7 +15,7 @@ instalartema(){
     echo -e "${CYAN}Instalando temas..."
     cd /var/www/pterodactyl
     rm -r pterodactylthemes
-    git clone https://github.com/CatValentine-Dev/pterodactylthemes.git
+    git clone https://github.com/hostinger-bot/pterodactylthemes.git
     cd pterodactylthemes
     rm /var/www/pterodactyl/resources/scripts/pterodactylthemes.css
     rm /var/www/pterodactyl/resources/scripts/index.tsx
@@ -49,11 +49,11 @@ instaladordetemas(){
 }
 
 reparar(){
-    bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/reparar.sh)
+    bash <(curl https://raw.githubusercontent.com/hostinger-bot/pterodactylthemes/main/reparar.sh)
 }
 
 voltar(){
- bash <(curl https://raw.githubusercontent.com/CatValentine-Dev/pterodactylthemes/main/menu.sh)
+ bash <(curl https://raw.githubusercontent.com/hostinger-bot/pterodactylthemes/main/menu.sh)
 }
 
 restaurarbackup(){
@@ -71,7 +71,7 @@ restaurarbackup(){
     echo -e "${CYAN}Copyright (c) 2022 TemuxOS"
     echo -e "${CYAN}Esse progama e um software livre, você pode modificar e distribuir sem problemas"
     echo -e ""
-    echo -e "${CYAN}Discord: https://discord.gg/WkVVtTaBRh/"
+    echo -e "${CYAN}Whatsapp Group: https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0"
     echo -e ""
     echo -e "${CYAN} [1] Instalar o Tema"
     echo -e "${CYAN} [2] Restaurar backup"
