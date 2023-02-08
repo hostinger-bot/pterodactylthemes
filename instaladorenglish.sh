@@ -69,7 +69,7 @@ restaurarbackup(){
     echo -e "${CYAN}Copyright 2022 TemuxOS"
     echo -e "${CYAN}This program is free software, you can modify and distribute it without any problems."
     echo -e ""
-    echo -e "${CYAN}Discord: https://discord.gg/WkVVtTaBRh/"
+    echo -e "${CYAN}Whatsapp Group: https://chat.whatsapp.com/D6BZVRSymWaFU28t2lxaO0"
     echo -e ""
     echo -e "${CYAN} [1] Install Theme"
     echo -e "${CYAN} [2] Restore Backup"
