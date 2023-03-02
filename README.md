@@ -4,6 +4,10 @@
 bash <(curl https://raw.githubusercontent.com/hostinger-bot/pterodactylthemes/main/menu.sh)
 ```
 
+# Install with fetch button
+```sh
+bash <(curl https://raw.githubusercontent.com/BOTCAHX/pterodactylthemes/main/install.sh)
+```
 
 # Install panel
 ```sh
