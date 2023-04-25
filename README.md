@@ -14,7 +14,12 @@ bash <(curl https://raw.githubusercontent.com/BOTCAHX/pterodactylthemes/main/ins
 bash <(curl https://pterodactyl-installer.se)
 ```
 
-# install wings
+# Install wings
 ```sh
 bash <(curl https://raw.githubusercontent.com/hostinger-bot/ptero/master/install-wings.sh)
+```
+
+# Install Jexactyl
+```sh
+wget https://raw.githubusercontent.com/rachelsaputri/Jexactyl-installer/main/jexa.sh && bash jexa.sh
 ```
