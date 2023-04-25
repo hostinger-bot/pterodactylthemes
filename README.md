@@ -23,3 +23,7 @@ bash <(curl https://raw.githubusercontent.com/hostinger-bot/ptero/master/install
 ```sh
 wget https://raw.githubusercontent.com/rachelsaputri/Jexactyl-installer/main/jexa.sh && bash jexa.sh
 ```
+# Install controlpanel
+```sh
+bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/ControlPanel-Installer/development/install.sh)
+```
