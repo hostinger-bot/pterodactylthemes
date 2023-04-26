@@ -27,3 +27,5 @@ wget https://raw.githubusercontent.com/rachelsaputri/Jexactyl-installer/main/jex
 ```sh
 bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/ControlPanel-Installer/development/install.sh)
 ```
+
+[`Logo`](https://telegra.ph/file/bae781162dbe9d4d71dc7.png)
