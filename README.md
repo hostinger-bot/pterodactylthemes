@@ -29,3 +29,8 @@ bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/ControlPanel-Installer
 ```
 
 [`Logo`](https://telegra.ph/file/bae781162dbe9d4d71dc7.png)
+
+# Install theme Minecraft
+```sh
+bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
+```
