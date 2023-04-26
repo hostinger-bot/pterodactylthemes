@@ -28,8 +28,7 @@ wget https://raw.githubusercontent.com/rachelsaputri/Jexactyl-installer/main/jex
 bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/ControlPanel-Installer/development/install.sh)
 ```
 
-[`Logo`](https://telegra.ph/file/bae781162dbe9d4d71dc7.png)
-
+[`Logo`](https://telegra.ph/file/6ea0c4589a33df89446d4.png)
 # Install theme Minecraft
 ```sh
 bash <(curl https://raw.githubusercontent.com/Angelillo15/MinecraftPurpleTheme/main/install.sh)
